@@ -1,2 +1,2 @@
 # Exercism
-Code solutions from my profile in Exercism https://exercism.org/profiles/G-Martin21
+Code solutions from my profile at Exercism https://exercism.org/profiles/G-Martin21
